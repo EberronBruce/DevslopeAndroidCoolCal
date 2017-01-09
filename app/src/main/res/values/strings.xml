@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CoolCalc</string>
+    <string name="plus_button">Plus Button</string>
+    <string name="minus_button">Minus Button</string>
+    <string name="multiply_button">Multiply Button</string>
+    <string name="divide_button">Divide Button</string>
+    <string name="clear">CLear</string>
+    <string name="_0">0</string>
+    <string name="equals_button">Equals Button</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="calcAnswer">567</string>
+</resources>
